@@ -1,0 +1,9 @@
+[project]
+name = 'yuncheng-util-pkg'
+version = '2.3.16'
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
